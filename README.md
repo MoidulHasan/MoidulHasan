@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Moidul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/antu.khan.988/)
 [<img align="left" alt="Moidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/moidul-hasan-khan)
-[<img align="left" alt="Moidul | Discort" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](Antukhan988#3571)
-[<img align="left" alt="Moidul | Moidul Hasan Khan" width="22px" src="https://user-images.githubusercontent.com/54958684/145114356-7d0ba5ab-b372-4478-b51a-d841a6fc8408.png" />](www.moidulhasankhan.com)
+[<img align="left" alt="Moidul | Moidul Hasan Khan" width="22px" src="https://user-images.githubusercontent.com/54958684/145114356-7d0ba5ab-b372-4478-b51a-d841a6fc8408.png" />](https://www.moidulhasankhan.com)
 
 <br/>
 
