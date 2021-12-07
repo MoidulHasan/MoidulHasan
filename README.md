@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 <br/>
 
 #### Languages and Tools
-
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/54958684/145114164-80794e54-6957-49b5-88e3-6ff780a6a8b0.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/54958684/145114626-4e098d7e-3367-4b27-9a9f-f74c0a4993de.png" />
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/54958684/145114775-0d037810-4a54-49b5-b580-9a7679a27e68.png" />
+<img align="left" alt="C" width="36px" src="https://user-images.githubusercontent.com/54958684/145114164-80794e54-6957-49b5-88e3-6ff780a6a8b0.png" />
+<img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/54958684/145114626-4e098d7e-3367-4b27-9a9f-f74c0a4993de.png" />
+<img align="left" alt="PHP" width="36px" src="https://user-images.githubusercontent.com/54958684/145114775-0d037810-4a54-49b5-b580-9a7679a27e68.png" />
+<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/54958684/145119737-2a981441-b92b-4c48-aac9-10a0573a5769.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="mysql" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="github" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
 
