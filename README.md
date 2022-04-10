@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Moidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoidulHasan&show_icons=true&hide_border=true" />
+<img align="left" alt="Moidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoidulHasan&count_private=true&show_icons=true&hide_border=true" />
 
 <br />
