@@ -6,11 +6,18 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Looking for an entry-level position as a Software Engineer in a dynamic firm that will value my analytical and technical skills and provide scope for updating my knowledge.
-- 👯 Currently pursuing BCSE degree from IUBAT - International University of Business Agriculture and Technology.
-- ⚡ Solved more than 700 Problems in Different Online Judge like Codeforce, Hackerrank, LightOj.
-- 🌱 I have working experience in PHP and currently learning React and Nodejs.
-- 🤔 I’m proficient in Data Structures and Algorithms.
+Currently working as a full-time junior software engineer at Softzino Technologies. Building web applications for more than 1.5 years with Vue, Nuxt, React, Typescript, and Javascript. I am very passionate about tech and love to learn new technologies for building cool things. I am good at the Vue ecosystem. But I can also work with other web technology like React js, jQuery, Node js, Express js, MongoDB, and PHP.
+
+- ⚡ Built Single Page Applications (SPA) with Vue both options,  composition API and React Js.
+- ⚡ Built Server Side Render(SSR) Applications with Nuxt and Next Js.
+- ⚡ Developing Admin Panel for Bidyava mobile app at Softzino technologies.
+- ⚡ Developing Admin Panel for Bidyava mobile app at Softzino technologies.
+- ⚡ Responsible for Bidyava's old admin panel's maintenance which is developed with next js.
+- ⚡ Develop rest API with express and node js.
+- ⚡ I’m proficient in Data Structures and Algorithms.
+
+I'm also passionate about problem-solving. I've solved around 800+ problems in different online judges and participated in many online and offline programming contests.
+
 
 - 💬 For more query knock me at any time.
 
@@ -55,7 +62,7 @@ Here are some ideas to get you started:
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="react native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="react native" width="26px" src="https://user-images.githubusercontent.com/54958684/145115118-d2a12762-c5ad-4c86-82e2-e92b4d6e9c25.png" />
+<img align="left" alt="react" width="26px" src="https://user-images.githubusercontent.com/54958684/145115118-d2a12762-c5ad-4c86-82e2-e92b4d6e9c25.png" />
 
 <br />
 <br />
