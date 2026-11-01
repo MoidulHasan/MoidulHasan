@@ -1,14 +1,16 @@
 ### Hi, I'm Moidul 👋
 
-Software engineer with 4+ years of experience building web applications for businesses, from enterprise software at Apple (as a contractor) to platforms for companies in Europe, Japan and Bangladesh.
+Software engineer with 4+ years of experience building web applications for companies in the US, Europe, Japan and Bangladesh.
 
 My core strength is the frontend, and I care a lot about UI and UX: the details that make an interface feel fast, clear and effortless. I work mainly with **Vue, Nuxt and TypeScript**, and across the stack with **Laravel, Node.js and Django REST**.
 
 Currently a Software Engineer II at Brain Station 23.
 
-#### 🛠 Featured project
+#### 🛠 Projects
 
 **[Preset Studio](https://github.com/MoidulHasan/presetstudio)**: a free, open-source visual theme editor for PrimeVue 4. Pick a brand color, see every component in every state, and export a ready-to-use theme preset. **[Try it →](https://presetstudio.vercel.app)**
+
+**[Mentora](https://github.com/MoidulHasan/Mentora)**: an early prototype of an AI tutoring assistant built with LangChain and LangGraph, part of my exploration into AI engineering.
 
 #### 🧰 Tech I work with
 
