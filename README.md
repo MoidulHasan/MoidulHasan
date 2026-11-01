@@ -6,12 +6,9 @@ My core strength is the frontend, and I care a lot about UI and UX: the details 
 
 Currently a Software Engineer II at Brain Station 23.
 
-#### 🛠 Projects
+#### 🛠 Featured project
 
 **[Preset Studio](https://github.com/MoidulHasan/presetstudio)**: a free, open-source visual theme editor for PrimeVue 4. Pick a brand color, see every component in every state, and export a ready-to-use theme preset. **[Try it →](https://presetstudio.vercel.app)**
-
-**[Mentora](https://github.com/MoidulHasan/Mentora)**: an early prototype of an AI tutoring assistant built with LangChain and LangGraph, part of my exploration into AI engineering.
-
 #### 🧰 Tech I work with
 
 **Frontend:** Vue 3 · Nuxt · TypeScript · React / Next.js · PrimeVue · Tailwind CSS · Pinia<br>
