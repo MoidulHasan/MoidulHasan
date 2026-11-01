@@ -5,6 +5,14 @@ What I focus on:
 - Design systems and reusable components that keep products consistent as they grow
 - Clean architecture, automated testing and reliable production releases
 
-I also created [Preset Studio](https://presetstudio.vercel.app), an open-source visual theme editor for PrimeVue. My roots are in competitive programming, with 800+ problems solved and an intra-university contest title.
+Experience:
+- **Software Engineer II** · Brain Station 23 · 2025 – present
+- **Software Engineer (Contract)** · Apple, via Softzino Technologies · 2023 – 2025
+- **Software Engineer** · Softzino Technologies · 2023 – 2025
+- **Junior Software Engineer** · Softzino Technologies · 2022 – 2023
+
+**Education:** B.Sc. in Computer Science & Engineering · IUBAT<br>
+**Open source:** [Preset Studio](https://presetstudio.vercel.app), a visual theme editor for PrimeVue<br>
+**Background:** competitive programming, 800+ problems solved
 
 [LinkedIn](https://www.linkedin.com/in/moidul-hasan-khan) · [Email](mailto:antu.khan.988@gmail.com)
