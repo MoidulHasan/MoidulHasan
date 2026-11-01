@@ -5,6 +5,6 @@ What I focus on:
 - Design systems and reusable components that keep products consistent as they grow
 - Clean architecture, automated testing and reliable production releases
 
-I also created [Preset Studio](https://presetstudio.vercel.app), an open-source visual theme editor for PrimeVue.
+I also created [Preset Studio](https://presetstudio.vercel.app), an open-source visual theme editor for PrimeVue. My roots are in competitive programming, with 800+ problems solved and an intra-university contest title.
 
 [LinkedIn](https://www.linkedin.com/in/moidul-hasan-khan) · [Email](mailto:antu.khan.988@gmail.com)
